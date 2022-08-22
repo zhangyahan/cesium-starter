@@ -1,0 +1,1 @@
+The vue router path https://router.vuejs.org/zh/

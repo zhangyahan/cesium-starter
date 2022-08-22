@@ -1,0 +1,1 @@
+The components path https://cn.vuejs.org/v2/guide/single-file-components.html
